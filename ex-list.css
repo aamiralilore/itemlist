@@ -1,0 +1,40 @@
+.beautiful {
+    border: 20px solid black;
+    font-size: medium;
+    color: red;
+    background-color:black;
+    text-align: center;
+}
+
+#content {
+    background-color: black;
+    border: 20px solid black;
+
+}
+h2 {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#additem {
+    font-size: medium;
+    color: aquamarine;
+    background-color: black;
+}
+
+#Removeitem {
+    font-size: medium;
+    color: red;
+    background-color:bisque;
+}
+
+#clearAll {
+    font-size: medium;
+    color: blue;
+    background-color: aliceblue;
+}
+
+#text {
+    color: black;
+    background-color: white;
+}
